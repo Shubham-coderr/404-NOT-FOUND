@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@Shubham-coderr](https://{github.com/Shubham-coderr})
-- Twitter [@Shubham_coderr](https://{twitter.com/Shubham_coderr})
+- Twitter [Shubham_coderr](https://{twitter.com/Shubham_coderr})
